@@ -1,2 +1,2 @@
 # youtubePlaylistLen
-Retrieves the length of a youtube playlist
+users.js javascript for retrieving the length of a youtube playlist
